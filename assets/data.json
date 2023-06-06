@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "date": "31/05/2021",
+        "title": "SMART HOSPITAL MANAGEMENT SYSTEM",
+        "description": "SMHS helps to take appointment of specialist doctors. It contains three module Admin, Doctor, Patient. Doctor can prescribe the patient payment system is also there, Admin can add and remove the Doctors.  ",
+        "url": "https://smarthospitalmanagementsystem.azurewebsites.net/",
+        "imgSrc": "https://raw.githubusercontent.com/AniketSurve0502/SmartHospitalManagementSystemDiplomaProject/main/images/favicon.png?token=GHSAT0AAAAAACCWOMMGFQS4M7KULQVS4CDKZD7IODA"
+      },
+  
+      {
+        "date": "11/11/2022",
+        "title": "PORTFOLIO WEBSITE",
+        "description": "Portfolio Website using HTML CSS JAVASCRIPT BOOTSTRAP",
+        "url": "https://aniketsurve0502.github.io/",
+        "imgSrc": "https://raw.githubusercontent.com/AniketSurve0502/Portfolio-Website/main/ani1.jpg"
+      },
+      {
+        "date": "30/523",
+        "title": "MOVIE RECOMMENDATION SYSTEM",
+        "description": "MRS will recommend movie on the bases of interest of other users",
+        "url": "https://github.com/AniketSurve0502/Movie-Recommendation-System",
+        "imgSrc": "https://tse2.mm.bing.net/th?id=OIP.ZKF5kSelg-1ogpHrJUOAXgHaEK&pid=Api&P=0&h=180"
+      },
+  
+      {
+        "date": "17/10/2022",
+        "title": "HOTEL RECOMMENDATION SYSTEM",
+        "description": "HRS will recommend hotel to the user on the bases of why he want to visit the hotel that is for type of trip",
+        "url": "https://github.com/AniketSurve0502/HotelRecommendationSystem",
+        "imgSrc": "https://tse1.mm.bing.net/th?id=OIF.wBbazbCCkFFuz%2b3kIGJ1%2fA&pid=Api&P=0&h=180"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "STUDENT RESULT MANAGEMENT SYSTEM",
+        "description": "It is a portal that shows all information related to the student notice result",
+        "url": "https://github.com/AniketSurve0502/Student-Result-Management-Website",
+        "imgSrc":    " https://tse3.mm.bing.net/th?id=OIP.G2dx9Kc5MvuWAVN9A2rv9QHaE3&pid=Api&P=0&h=180"
+      }
+    ]
+  }
